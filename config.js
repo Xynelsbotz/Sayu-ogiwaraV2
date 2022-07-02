@@ -3,43 +3,43 @@ const chalk = require('chalk')
 
 global.thum = fs.readFileSync("./media/zaki.jpg")
 
-global.autoReadAll = true 
+global.autoReadAll = false 
 
 // '6285878313791' ganti nomor kalian '628xxxxxx'
 //KiZakiXD ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6281515453325']
+global.pengguna = 'Xynels Design'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'Xynels'
+global.pemilik = ['6281515453325'] 
+global.ownernomer = '6281515453325'
+global.ownername = 'Xynels Design'
+global.botname = 'Sayu-OgiwaraV2'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6281515453325'
+global.footer = 'sᴀʏᴜ-ᴏɢɪᴡᴀʀᴀ'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Xynels[Nelsen]' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
+global.yt = 'https://www.youtube.com/xynelsdesign' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/xynels.design'
 global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
+global.dana = '081515453325'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.wame = 'wa.me/6281515453325'
+global.email = 'xynelsdesign@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.sc = 'https://bit.ly/githubxynels'
+global.packname = '"{\nAuthor: Xynels"\n"Bot Number: 6285646458928"\n"Bot Name: Sayu-OgiwaraV2"\n"Instagram: @xynels.design"\n}' 
 global.author = '' 
 global.sessionName = 'session'
-global.prefa = ['#','!','/','']
+global.prefa = ['#','!','/','','.']
 global.sp = '❑ ' 
 global.mess = {
     success: 'Done Your Request',
@@ -396,7 +396,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 18K_\n   _• Sewa Bot 1 Tahun : 65K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
